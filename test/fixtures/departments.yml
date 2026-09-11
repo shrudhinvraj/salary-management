@@ -1,0 +1,11 @@
+engineering:
+  name: Engineering
+
+product:
+  name: Product
+
+design:
+  name: Design
+
+marketing:
+  name: Marketing

@@ -1,0 +1,23 @@
+us:
+  code: US
+  name: United States
+  currency: USD
+  exchange_rate_usd: 1.0
+
+uk:
+  code: UK
+  name: United Kingdom
+  currency: GBP
+  exchange_rate_usd: 1.27
+
+de:
+  code: DE
+  name: Germany
+  currency: EUR
+  exchange_rate_usd: 1.09
+
+in:
+  code: IN
+  name: India
+  currency: INR
+  exchange_rate_usd: 0.012
