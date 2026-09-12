@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Rails 7.2.3 uses JSON.generate(quirks_mode:) which was removed in json 3.x
-gem "json", ">= 2.7", "< 3"
+gem "json", ">= 2.7", "< 4"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.3", ">= 7.2.3.2"
