@@ -107,7 +107,7 @@ GEM
       prism (>= 1.3.0)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
-    json (2.21.2)
+    json (3.0.1)
     language_server-protocol (3.17.0.6)
     lint_roller (1.1.0)
     logger (1.7.0)
@@ -264,7 +264,7 @@ DEPENDENCIES
   csv
   debug
   faker
-  json (>= 2.7, < 3)
+  json (>= 2.7, < 4)
   minitest (~> 5.0)
   puma (>= 5.0)
   rack-cors
